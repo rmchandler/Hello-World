@@ -1,2 +1,2 @@
 # Hello-World
-The forst repository
+The first repository
